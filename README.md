@@ -13,7 +13,7 @@ An interactive educational web game that teaches users how to properly sort diff
 - **Scoring**:
   - ✅ Correct bin: +5 points
   - ❌ Incorrect bin: –1 point
-- Interesting environmental facts will occasionally pop up—don't worry, the timer will pause while you read.
+- Interesting environmental facts will occasionally pop up, don't worry, the timer will pause while you read.
 
 ## 🗑️ Waste Categories
 
