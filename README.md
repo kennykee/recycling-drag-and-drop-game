@@ -4,8 +4,7 @@ An interactive educational web game that teaches users how to properly sort diff
 
 - **Project description:** [schoolapp.sg/project/marsiling-secondary-school-environmental-hub/](https://schoolapp.sg/project/marsiling-secondary-school-environmental-hub/)
 - **YouTube Video**: [https://youtu.be/PrI6DieHKVY](https://youtu.be/PrI6DieHKVY)
-
-
+    
 ![Game Screenshot](./assets/images/MSS_5.png) <!-- Replace with actual path or GitHub-hosted URL -->
 
 ## 🎮 How to Play
