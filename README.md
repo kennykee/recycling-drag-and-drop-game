@@ -39,7 +39,6 @@ The game includes the following recycling bins:
 - JavaScript (Vanilla)
 - jQuery UI
 - Mottie virtual keyboard
-- Responsive design for modern browsers
 
 ## 🚀 Getting Started
 
