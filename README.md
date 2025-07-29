@@ -49,3 +49,8 @@ Clone the repository and open `index.html` in your browser:
 git clone https://github.com/kennykee/recycling-drag-and-drop-game.git
 cd recycling-drag-and-drop-game
 open index.html   # or use your preferred method to open it in a browser
+
+## License
+
+This project is licensed under the MIT License.  
+See the [`LICENSE`](./LICENSE) file for full details.
